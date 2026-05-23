@@ -7023,8 +7023,7 @@ function NutritionistBot() {
             </>
           )}
         </div>
-      )}
-    </>
+      )
   );
 }
 
